@@ -1,0 +1,19 @@
+body {
+	background-image: url("../images/questions.png");
+	background-size: 100%;
+	text-align: center;
+
+}
+
+h1 {
+	color: white;
+}
+
+h5 {
+	color: white;
+}
+
+section {
+	background-color: white;
+	margin: 0px 750px;
+}
